@@ -4,6 +4,6 @@ slug  : tarkir-dragonstorm
 seal  : 67a1a35c5b105175a9c4b23ff075b55871e8ca7cfd1e28bfd2f2b6dde8286495
 prev  : d80b52af535e28f6d87604e575ff88e5dd47d67d7176c20cd43340d9baeec5f2
 link  : a9dd777e2ed6908d2c789de8e183120e5a0e39ed476bee1882ba62136edec730
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
